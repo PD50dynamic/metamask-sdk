@@ -7842,6 +7842,7 @@ __metadata:
     ts-node: ^10.9.1
     ts-node-dev: ^2.0.0
     typescript: ^5.2.2
+    uuid: ^9.0.1
   languageName: unknown
   linkType: soft
 
@@ -39607,7 +39608,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uuid@npm:^9.0.0":
+"uuid@npm:^9.0.0, uuid@npm:^9.0.1":
   version: 9.0.1
   resolution: "uuid@npm:9.0.1"
   bin:
